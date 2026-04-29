@@ -32,4 +32,4 @@ The core value of Kubernetes is its ability to "self-heal." I verified this with
 * **Continuous Learning:** I am actively mastering **CI/CD pipelines**, **Docker Networking**, and **AWS Core services** to stay adaptable in a rapidly evolving tech landscape.
 
 ### ❗ Errors 
-* **I have some errors there i debug it 
+* **I have some errors there like such i haven't downloaded the server yet so and using an updated K8s that is compatible in my device
